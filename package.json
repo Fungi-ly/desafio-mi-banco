@@ -1,0 +1,15 @@
+{
+  "name": "desafio-mi-banco---hans-contreras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hans Contreras",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.7.3",
+    "pg-cursor": "^2.7.3"
+  }
+}
